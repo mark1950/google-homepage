@@ -81,12 +81,11 @@ li a:hover {
 }
 
 .sform {
-    display: block;
     text-align: center;
 }
 
 .searchbox {
-    width: 580px;
+    width: 500px;
     height: 40px;
     border-radius: 30px;
     border-width: 1px;
@@ -96,8 +95,42 @@ li a:hover {
     font-size: 18px;
 }
 
+.middlebuttons {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.googlesearchbutton {
+    height: 35px;
+    width: 140px;
+    margin-right: 10px;
+    border: none;
+}
+
+.gsearch {
+    color: black;
+    opacity: 0.75;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.luckybutton {
+    height: 35px;
+    width: 140px;
+    border: none;
+}
+
+.lucky {
+    color: black;
+    opacity: 0.75;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
 .middlebox {
-    margin-bottom: 390px;
+    margin-bottom: 320px;
 }
 
 .footer {
