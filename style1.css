@@ -1,0 +1,175 @@
+
+body {
+    min-width: 980px;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: arial, sans-serif;
+}
+
+h2 {
+    font-size: 14px;
+    font-weight: lighter;
+    opacity: 0.60;
+}
+
+h3 {
+    margin-left: 190px;
+    font-weight: lighter;
+}
+
+p {
+    margin-top: 7px;
+    font-size: 15px;
+    font-weight: lighter;
+    opacity: 0.60;
+}
+
+#topbox_container {
+    display: flex;
+    height: 70px;
+}
+
+#box1 {
+    width: 10%;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#box2 {
+    width: 70%;
+}
+
+.search{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.searchbox {
+    width: 680px;
+    height: 40px;
+    border-radius: 30px;
+    border-width: 1px;
+    color: black;
+    opacity: 0.60;
+    font-size: 18px;
+}
+
+#box3 {
+    width: 10%;
+}
+
+.gapps {
+    background-color: #ffffff;
+    border-style: none;
+    margin-top: 30px;
+    margin-left: 85px;
+}
+
+#box4 {
+    width: 10%;
+}
+
+.signinbutton {
+    height: 35px;
+    width: 90px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #1d46fc;
+}
+
+.signin {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navoptions {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 150px;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    opacity: 0.60;
+    font-size: 13px;
+}
+
+.seven {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.more {
+    padding-left: 12px;
+    padding-right: 85px;
+}
+
+.resultcount {
+    margin-top: 20px;
+    margin-left: 190px;
+}
+
+#results {
+    margin-top: 30px;
+    margin-left: 190px;
+}
+
+.web {
+    margin-bottom: 10px;
+}
+
+.webaddress {
+    color: #000000;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.weblink {
+    color: #182e8d;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+#video_container {
+    display: flex;
+    height: 300px;
+    margin-left: 190px;
+}
+
+.box5 {
+    width: 200px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.box6 {
+    width: 200px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.box7 {
+    width: 200px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
